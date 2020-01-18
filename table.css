@@ -1,0 +1,20 @@
+#Student {
+  font-family: Arial;
+  border: solid black;
+  width: 100%;
+}
+
+#Student td, #Student th {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+
+#Student tr:hover {background-color: yellow;}
+
+#Student th {
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: left;
+  color: black;
+}
